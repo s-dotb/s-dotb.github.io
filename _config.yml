@@ -1,0 +1,28 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+# edit here to achieve your personal greatness
+url: https://s-dotb.github.io/
+baseurl: /
+title: Siddhartha Basu
+author: Siddhartha Basu
+description: Personal website and resume
+# avatar: profile.jpg
+github: s-dotb
+email: basu.siddhartha@outlook.com
+linkedin: siddhartha-basu
+# vimeo: basusiddhartha
+# youtube: basusiddhartha
+# wordpress: basusiddhartha
+# google_analytics: UA-136248017-1
+
+# needed for travis-ci build
+exclude: [vendor]

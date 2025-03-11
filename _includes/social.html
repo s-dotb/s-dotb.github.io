@@ -1,0 +1,22 @@
+<div class="social">
+	<h4>
+    {% if site.email %}
+        <a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a>
+    {% endif %}
+    {% if site.github %}
+	  <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>
+    {% endif %}
+    {% if site.linkedin %}
+	  <a href="https://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>
+    {% endif %}
+    {% if site.wordpress %}
+	  <a href="https://{{ site.wordpress }}.wordpress.com"><i class="fa fa-wordpress"></i></a>
+    {% endif %}
+    {% if site.youtube %}
+	  <a href="https://www.youtube.com/user/{{ site.youtube }}"><i class="fa fa-youtube"></i></a>
+    {% endif %}
+    {% if site.vimeo %}
+	  <a href="https://vimeo.com/{{ site.vimeo }}"><i class="fa fa-vimeo"></i></a>
+    {% endif %}
+	</h4>
+</div>
