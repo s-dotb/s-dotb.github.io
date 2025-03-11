@@ -29,13 +29,10 @@
 </h1>
 
 
-🔭 I’m currently working on: AI ML and Cloud Computing
+🔭 I’m currently working on: Animation, VFX, and gaming tools and pipelines.
 
 🌐 My interests include:
 
-Blockchain: Exploring decentralized systems, smart contracts, and cryptocurrencies. <br>
-AI/ML: Developing intelligent algorithms and predictive models. <br>
-Cloud Computing: Leveraging cloud architectures and scalable solutions. <br>
 Web Development: Crafting dynamic web experiences with modern technologies.
 
 ### Skills
