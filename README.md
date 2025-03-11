@@ -25,7 +25,7 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2250&pause=500&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Hola;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Aryan+Yadav;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2250&pause=500&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Hola;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Siddhartha+Basu;"/>
 </h1>
 
 
