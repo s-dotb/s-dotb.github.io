@@ -10,7 +10,7 @@ dd>code,
 blockquote>code,
 div.endnote>code,
 span.imagecaption>code {
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(0, 0, 0);
     padding: 2px;
     border-radius: 4px;
 }
