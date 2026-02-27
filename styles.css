@@ -1,0 +1,16 @@
+object {
+    display: block;
+    margin: auto;
+}
+
+p code,
+li code,
+dt code,
+dd>code,
+blockquote>code,
+div.endnote>code,
+span.imagecaption>code {
+    background-color: rgb(240, 240, 240);
+    padding: 2px;
+    border-radius: 4px;
+}
